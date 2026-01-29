@@ -1,7 +1,7 @@
 Package: SigProfilerPlottingR
 Type: Package
 Title: SigProfilerPlottingR is a visualization tool. 
-Version: 0.1.0
+Version: 1.4.3 
 Author: Erik Bergstrom 
 Maintainer: Erik Bergstrom <ebergstr@eng.ucsd.edu>
 Description: The tool provides a method for visualizing mutational patterns and
